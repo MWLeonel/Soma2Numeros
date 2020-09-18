@@ -1,0 +1,26 @@
+C:\Users\Max Leonel\Desktop\Soma2Numeros\Soma2Numeros\bin\Debug\netcoreapp3.1\Soma2Numeros.exe
+C:\Users\Max Leonel\Desktop\Soma2Numeros\Soma2Numeros\bin\Debug\netcoreapp3.1\Soma2Numeros.deps.json
+C:\Users\Max Leonel\Desktop\Soma2Numeros\Soma2Numeros\bin\Debug\netcoreapp3.1\Soma2Numeros.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\Soma2Numeros\Soma2Numeros\bin\Debug\netcoreapp3.1\Soma2Numeros.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\Soma2Numeros\Soma2Numeros\bin\Debug\netcoreapp3.1\Soma2Numeros.dll
+C:\Users\Max Leonel\Desktop\Soma2Numeros\Soma2Numeros\bin\Debug\netcoreapp3.1\Soma2Numeros.pdb
+C:\Users\Max Leonel\Desktop\Soma2Numeros\Soma2Numeros\obj\Debug\netcoreapp3.1\Soma2Numeros.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\Soma2Numeros\Soma2Numeros\obj\Debug\netcoreapp3.1\Soma2Numeros.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\Soma2Numeros\Soma2Numeros\obj\Debug\netcoreapp3.1\Soma2Numeros.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\Soma2Numeros\Soma2Numeros\obj\Debug\netcoreapp3.1\Soma2Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\Soma2Numeros\Soma2Numeros\obj\Debug\netcoreapp3.1\Soma2Numeros.dll
+C:\Users\Max Leonel\Desktop\Soma2Numeros\Soma2Numeros\obj\Debug\netcoreapp3.1\Soma2Numeros.pdb
+C:\Users\Max Leonel\Desktop\Soma2Numeros\Soma2Numeros\obj\Debug\netcoreapp3.1\Soma2Numeros.genruntimeconfig.cache
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\Soma2Numeros\Soma2Numeros\bin\Debug\netcoreapp3.1\Soma2Numeros.exe
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\Soma2Numeros\Soma2Numeros\bin\Debug\netcoreapp3.1\Soma2Numeros.deps.json
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\Soma2Numeros\Soma2Numeros\bin\Debug\netcoreapp3.1\Soma2Numeros.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\Soma2Numeros\Soma2Numeros\bin\Debug\netcoreapp3.1\Soma2Numeros.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\Soma2Numeros\Soma2Numeros\bin\Debug\netcoreapp3.1\Soma2Numeros.dll
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\Soma2Numeros\Soma2Numeros\bin\Debug\netcoreapp3.1\Soma2Numeros.pdb
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\Soma2Numeros\Soma2Numeros\obj\Debug\netcoreapp3.1\Soma2Numeros.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\Soma2Numeros\Soma2Numeros\obj\Debug\netcoreapp3.1\Soma2Numeros.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\Soma2Numeros\Soma2Numeros\obj\Debug\netcoreapp3.1\Soma2Numeros.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\Soma2Numeros\Soma2Numeros\obj\Debug\netcoreapp3.1\Soma2Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\Soma2Numeros\Soma2Numeros\obj\Debug\netcoreapp3.1\Soma2Numeros.dll
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\Soma2Numeros\Soma2Numeros\obj\Debug\netcoreapp3.1\Soma2Numeros.pdb
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\Soma2Numeros\Soma2Numeros\obj\Debug\netcoreapp3.1\Soma2Numeros.genruntimeconfig.cache

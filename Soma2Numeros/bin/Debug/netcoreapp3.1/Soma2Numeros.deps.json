@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Soma2Numeros/1.0.0": {
+        "runtime": {
+          "Soma2Numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Soma2Numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
